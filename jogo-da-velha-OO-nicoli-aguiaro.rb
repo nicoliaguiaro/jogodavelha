@@ -1,14 +1,3 @@
-#
-# Objetivos do Trabalho
-#
-
-# 1. Entregar uma versão refatorada Jogo da Velha, modo Orientação a Objetos
-# Critérios de aceites:
-# 1.1 Código compilando e sem quebrar
-# 1.2 Tem que ter uma classe para a Tela, uma classe para Anotacao (anotação das jogadas) e uma classe Jogador
-# OBS.: Se vocês julgarem necessário ter mais classes (além das obrigatórias), fiquem à vontade
-# Entregar um código-fonte novo (jogo-da-velha-OO-<nome>.rb), com a versão OO do jogo da velha
-
 class Tela
 
     JOGADAS_VAZIAS = Array.new(9, " ").freeze
